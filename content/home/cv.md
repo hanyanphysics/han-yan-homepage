@@ -37,6 +37,6 @@ weight = 5
  
 +++
 
-# Biography
+# CV
 
 Han is good
