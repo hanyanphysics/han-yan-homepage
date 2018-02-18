@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Frustrated Magnetism",
-    "Theoreis",
-    "Application of high energy theories in condensed matter theory"
+	"Frustrated Magnetism",
+	"Theoreis",
+	"Application of high energy theories in condensed matter theory"
   ]
 
 # List your qualifications (such as academic degrees).
