@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Han Yan's homepage"
+title = "Han@OIST"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Han Yan"
-  role = "PhD candidate of OIST"
+  role = "PhD candidate of Condensed Matter Theory"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "hanyanphy@gmail.com"
-  address = "Theory of Quantum Matter Unit, OIST, 1919-1 Tancha, Onna-son, Okinawa, 9040495, Japan"
+  address = "Theory of Quantum Matter Unit, B624 Lab2, OIST, 1919-1 Tancha, Onna-son, Okinawa, 9040495, Japan"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:hanyanphy@gmail.com"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.jp/citations?user=gkX6R6QAAAAJ"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+  #[[params.social]]
+  #  icon = "github"
+  #  icon_pack = "fa"
+  #  link = "//github.com/gcushen"
 
 
 # Navigation Links
